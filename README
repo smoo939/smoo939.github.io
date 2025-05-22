@@ -1,0 +1,30 @@
+Portfolio Website
+
+Description
+A single-page portfolio website showcasing my skills, projects, and recommendations. This website is designed to provide a clean and simple way to display my work and experience.
+
+Features
+* Responsive design for mobile devices
+* Smooth scrolling navigation
+* Back-to-top button
+* Sections for About Me, Skills, Projects, and Recommendations
+
+Technologies Used
+* HTML5
+* CSS3
+* JavaScript
+
+Installation
+1. Clone the repository to your local machine using `git clone https://github.com/smoo939/smoo939.github.io.git`
+2. Open the `index.html` file in a web browser to view the website
+
+Usage
+* Navigate to different sections of the website using the navigation menu
+* View projects and recommendations in their respective sections
+* Use the back-to-top button to quickly return to the top of the page
+
+Contributing
+If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
+
+License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
