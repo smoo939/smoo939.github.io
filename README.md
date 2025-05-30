@@ -42,15 +42,15 @@ procedures </li>
             <div class="project">
 <h2>Chatbot Application</h2>
 <p>Developed a chatbot application using   Python and JavaScript, and integrated it with a messaging platform.</p>
-<h3> Conversational AI Model</h3>
+<h2> AI Model</h2>
 <p> Trained and fine-tuned a conversational AI model , and deployed it as a chatbot.</p>
-<h4> Sentiment Analysis Model</h4>
+<h2> Sentiment Analysis Model</h2>
 <p>Built a sentiment analysis model using a machine learning library   TensorFlow, and deployed it as a web application.</p>
-<h5>Personal Portfolio Website</h5>
+<h2> Portfolio Website</h2>
 <p>Built a personal portfolio website using HTML, CSS, and JavaScript, and deployed it on a web server.</p>
-<h6>Data Analysis Project</h6>
+<h2> Analysis Project</h2>
 <p> Worked on a data analysis project using Pandas, NumPy, and Matplotlib, and visualized the insights using Plotly.</p>
-<h7>AI-Powered Chatbot</h7>
+<h2> Chatbot</h2>
 <p>Developed an AI-powered chatbot using NLTK and deployed it on a messaging platform.</p>
 </div>
     </section>
