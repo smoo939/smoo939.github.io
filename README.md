@@ -8,12 +8,9 @@
   <div class="container">
     <div class="about-content">
       <div class="about-image">
-        <img src=
-      </div>
-      <div class="about-text">
-    <section id="about">
-        <h1>Hi, I'm Aidan Shoniwa👋.</h1>
-        <p>I'm a Software Developer. I have worked on applications and microservices
+        <img src=https://github.com/smoo939/smoo939.github.io/blob/cf8cecf4c1ff3039192e37423df6c64c7ccce958/IMG_20250527_234215.jpg>
+      <p> Hi, I'm Aidan Shoniwa👋.
+        I'm a Software Developer. I have worked on applications and microservices
                deployed on IBM Cloud. I'm a avid user of IBM Watson
                worked on Watson Assistant, NLU, Sentiment Analyser to name a few.</p>
 <!-- Skills Section -->
