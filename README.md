@@ -8,7 +8,7 @@
   <div class="container">
     <div class="about-content">
       <div class="about-image">
-        <img src=("https://github.com/smoo939/smoo939.github.io/blob/b2f6dafa896a5f568423e6d31f3960b2347f4723/IMG_20250527_234215.jpg")>
+        <img src=
       </div>
       <div class="about-text">
     <section id="about">
