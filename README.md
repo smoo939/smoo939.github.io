@@ -59,6 +59,9 @@ procedures </li>
             <li><a href="#projects">Projects</a></li>
 </ul>
     </nav>
+    <a href="https://www.facebook.com/aidan-shoniwa">
+  <img src="https://github.com/smoo939/smoo939.github.io/blob/94cab35f550087cd99be3f7b7fc7cb1ac4eb2782/assets/css/icons8-facebook-logo-50.png"alt="Facebook">
+</a>
 </body>
 </html>
 
