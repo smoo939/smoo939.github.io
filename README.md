@@ -60,7 +60,7 @@ procedures </li>
             <li><a href="#projects">Projects</a></li>
 </ul>
     </nav>
-[![Image](https://drive.google.com/uc?id=1Az_U45rFvKglwWWDNdMw6XU5bPUzhXbb)](https://drive.google.com/uc?id=1Az_U45rFvKglwWWDNdMw6XU5bPUzhXbb)
+![Alt text for image](assets/css/icons8-email-30.png)
 </a>
 </body>
 </html>
