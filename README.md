@@ -60,7 +60,7 @@ procedures </li>
             <li><a href="#projects">Projects</a></li>
 </ul>
     </nav>
-<imgsrc="https://raw.githubusercontent.com/smoo939/smoo939.github.io/94cab35f550087cd99be3f7b7fc7cb1ac4eb2782/assets/css/icons8-facebook-logo-50.png" alt="Facebook">
+[![Image](https://drive.google.com/uc?id=1Az_U45rFvKglwWWDNdMw6XU5bPUzhXbb)](https://drive.google.com/uc?id=1Az_U45rFvKglwWWDNdMw6XU5bPUzhXbb)
 </a>
 </body>
 </html>
