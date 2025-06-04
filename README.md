@@ -59,5 +59,4 @@ procedures </li>
             <li><a href="#projects">Projects</a></li>
 </ul>
     </nav>
-![Alt text for image](assets/css/icons8-email-30.png)
-
+<img src="https://raw.githubusercontent.com/smoo939/smoo939.github.io/9dbc91b391182f45fc56d6f056a16daf174153d3/IMG_20250527_234215.jpg">
