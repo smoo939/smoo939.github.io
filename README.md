@@ -1,7 +1,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<imgsrc="https://github.com/smoo939/smoo939.github.io/blob/dc3f287d99b6634cb28ce24c6fc7286a229819b3/assets/css/icons8-facebook-logo-50.png" alt="Course Banner" width="1280" height="640">
     </head>
 <body>
     <!-- About Me Section -->
