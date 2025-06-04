@@ -61,7 +61,4 @@ procedures </li>
 </ul>
     </nav>
 ![Alt text for image](assets/css/icons8-email-30.png)
-</a>
-</body>
-</html>
 
