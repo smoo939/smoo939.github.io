@@ -60,6 +60,6 @@ My expertise in IBM Cloud and Watson services has enabled me to deliver scalable
 <p>Developed an AI-powered chatbot using NLTK and deployed it on a messaging platform.</p>
 </div>
     <a href="https://www.facebook.com/aidan-shoniwa">
-    <img src=
+    <img src="https://raw.githubusercontent.com/smoo939/smoo939.github.io/d37e3fe8aefcaa80c1e37bf9b957ba44383f2fe7/assets/css/353422_facebook_logo_icon.png">
   </a>
     
