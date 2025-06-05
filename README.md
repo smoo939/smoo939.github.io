@@ -10,9 +10,16 @@
   <div class="container">
     <div class="about-content">
       <div class="about-image">
-      <p> I'm a Software Developer. I have worked on applications and microservices
-               deployed on IBM Cloud. I'm a avid user of IBM Watson
-               worked on Watson Assistant, NLU, Sentiment Analyser to name a few.</p>
+      <h1>About Me</h1>
+       <img src="https://raw.githubusercontent.com/smoo939/smoo939.github.io/9dbc91b391182f45fc56d6f056a16daf174153d3/IMG_20250527_234215.jpg">
+       <p>With extensive experience in developing and deploying applications and microservices on IBM Cloud, I've honed my skills in leveraging the platform's robust features to drive innovation. As an avid user of IBM Watson, I've worked extensively with various services, including:
+
+1. Watson Assistant: Designed and implemented conversational interfaces that provide personalized user experiences.
+2. Natural Language Understanding (NLU): Utilized NLU to extract insights and meaning from unstructured text data.
+3. Sentiment Analysis: Developed applications that analyze and interpret sentiment from text data, enabling informed decision-making.
+
+My expertise in IBM Cloud and Watson services has enabled me to deliver scalable, efficient, and intelligent solutions that drive business value. I'm excited to continue exploring the possibilities of these technologies and applying my skills to drive innovation and growth.</p>
+
 <!-- Skills Section -->
     <section id="skills">
         <h1>Skills</h1>
