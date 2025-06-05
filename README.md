@@ -2,6 +2,7 @@
     <p>Hi my name is</p>
 
  <h1>Aidan</h1>
+ <p>a passionate Software Developer with a strong background in designing, developing, and deploying innovative software solutions.   </p>
     </head>
 <body>
     <!-- About Me Section -->
