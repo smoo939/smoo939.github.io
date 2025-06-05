@@ -25,12 +25,17 @@ My expertise in IBM Cloud and Watson services has enabled me to deliver scalable
         <h1>Skills</h1>
         <ul>
             <li>Programming languages: Python, JavaScript</li>
+          
            <li> Web development: HTML, CSS, JavaScript  </li>
+                    
                     <li>     Data science and AI: Python, machine learning, deep learning </li>
 
            <li> Generative AI: Python, Flask, AI model development </li>
+
 <li> Prompt Engineering: Designing and optimizing prompts for AI models. </li>
+
 <li> React Development: Building front-end applications with React.   </li>
+
 <li> AI Application Development: Developing applications that leverage AI technologies.  </li>
            
  </ul>
