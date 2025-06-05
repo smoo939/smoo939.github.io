@@ -13,11 +13,11 @@
       <h1>About Me</h1>
        <img src="https://raw.githubusercontent.com/smoo939/smoo939.github.io/9dbc91b391182f45fc56d6f056a16daf174153d3/IMG_20250527_234215.jpg">
        <p>With extensive experience in developing and deploying applications and microservices on IBM Cloud, I've honed my skills in leveraging the platform's robust features to drive innovation. As an avid user of IBM Watson, I've worked extensively with various services, including:
-
-1. Watson Assistant: Designed and implemented conversational interfaces that provide personalized user experiences.
-2. Natural Language Understanding (NLU): Utilized NLU to extract insights and meaning from unstructured text data.
-3. Sentiment Analysis: Developed applications that analyze and interpret sentiment from text data, enabling informed decision-making.
-
+       <ol>
+<li> Watson Assistant: Designed and implemented conversational interfaces that provide personalized user experiences.</li>
+<li>Natural Language Understanding (NLU): Utilized NLU to extract insights and meaning from unstructured text data.</li>
+<li>Sentiment Analysis: Developed applications that analyze and interpret sentiment from text data, enabling informed decision-making.</li>
+       </ol>
 My expertise in IBM Cloud and Watson services has enabled me to deliver scalable, efficient, and intelligent solutions that drive business value. I'm excited to continue exploring the possibilities of these technologies and applying my skills to drive innovation and growth.</p>
 
 <!-- Skills Section -->
