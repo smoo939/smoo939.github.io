@@ -9,8 +9,7 @@
   <div class="container">
     <div class="about-content">
       <div class="about-image">
-      <p> Hi, I'm Aidan Shoniwa👋.
-        I'm a Software Developer. I have worked on applications and microservices
+      <p> I'm a Software Developer. I have worked on applications and microservices
                deployed on IBM Cloud. I'm a avid user of IBM Watson
                worked on Watson Assistant, NLU, Sentiment Analyser to name a few.</p>
 <!-- Skills Section -->
@@ -23,12 +22,7 @@
 
            <li> Generative AI: Python, Flask, AI model development </li>
 
-           <li> Materials processing and characterization </li>
-
-           <li>   Materials simulation software (MATLAB, Python) </li>
-
-           <li>  Knowledge of laboratory equipment and testing
-procedures </li>
+           
  </ul>
     </section>
 
