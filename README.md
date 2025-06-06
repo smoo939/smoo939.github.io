@@ -62,8 +62,10 @@ My expertise in IBM Cloud and Watson services has enabled me to deliver scalable
  
    <Footer>
        <h2>Contact</h2>
+       <p>Want to get in touch with me?Just connect with me through any of these platforms. </p>
        
-    <img src="https://raw.githubusercontent.com/smoo939/smoo939.github.io/7e4f5d808e4273b6861fcf14ee0f8c37e7b12668/assets/css/3225190_app_linkedin_logo_media_popular_icon.png">
+   
+<img src="https://raw.githubusercontent.com/smoo939/smoo939.github.io/7e4f5d808e4273b6861fcf14ee0f8c37e7b12668/assets/css/3225190_app_linkedin_logo_media_popular_icon.png">
     <a href="mailto:aidanshoniwa@gmail.com">
     <img
 src="https://raw.githubusercontent.com/smoo939/smoo939.github.io/6474f012ea64545730893f75e38a261466f2cfc3/assets/css/8396418_email_mail_message_letter_contact_icon.png">
