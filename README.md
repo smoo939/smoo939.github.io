@@ -64,7 +64,7 @@ My expertise in IBM Cloud and Watson services has enabled me to deliver scalable
     <img src="https://raw.githubusercontent.com/smoo939/smoo939.github.io/e793ff6c56144164a8eacdee8fea37ee15ffc343/assets/css/367593_linkedin_business_network_social_icon.png">
     <a href="mailto:aidanshoniwa@gmail.com">
     <img
-src="https://raw.githubusercontent.com/smoo939/smoo939.github.io/902b2109477b2353787153f765bf179e141ef8c0/assets/css/8665305_envelope_email_icon.png">
+src="https://raw.githubusercontent.com/smoo939/smoo939.github.io/0cbdbc242a4b8f274c306e64cf02c5a82d2fb36a/assets/css/2674096_object_email_web_essential_icon.png"
 <img src="https://raw.githubusercontent.com/smoo939/smoo939.github.io/bb17722c28c43b1f638b067b8c02415c3f8cb3bd/assets/css/1964417_github_logo_media_social_icon.png">
  <a href="https://www.facebook.com/aidan-shoniwa">
         <img
